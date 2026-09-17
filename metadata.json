@@ -1,0 +1,6 @@
+{
+  "name": "BetTips PRO - Apostas & Galeria Interativa",
+  "description": "Aplicativo de tips esportivas de alta performance com feed de palpites, análise H2H, ranking auditado, radar ao vivo, gestão de banca e galeria interativa com links diretos das imagens HTML.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
